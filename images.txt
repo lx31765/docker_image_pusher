@@ -1,4 +1,3 @@
 --platform=linux/arm64  homeassistant/home-assistant:latest
---platform=linux/arm64  jjm2473/jellyfin-mpp:latest
 unilei/aipan-netdisk-search:latest
 hslr/sun-panel:latest
