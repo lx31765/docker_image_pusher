@@ -1,3 +1,4 @@
 --platform=linux/arm64 homeassistant/home-assistant:latest
 --platform=linux/amd64 unilei/aipan-netdisk-search:latest
 hslr/sun-panel:latest
+nextcloud:latest
