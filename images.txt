@@ -3,3 +3,4 @@
 hslr/sun-panel:latest
 nextcloud:latest
 privoce/vocechat-server:latest
+whyour/qinglong:latest
